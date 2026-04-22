@@ -1,0 +1,8 @@
+requirements.txt
+runtime.txt
+Procfile
+main.py
+*.py
+__pycache__/
+.env
+supabase_setup.sql
